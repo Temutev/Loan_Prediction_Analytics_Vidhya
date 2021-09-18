@@ -3,4 +3,7 @@ Predict Loan Eligibility for Dream Housing Finance company Dream Housing Finance
 
 
 
-## FINAL ACCURACY_SCORE ATTAINED : 0.78472 using CATBOOSTCLASSIFIER 
+## Solution for 1954 out of 9036 users in the leaderboard 
+### AnalyticsVidhya 
+
+https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii
